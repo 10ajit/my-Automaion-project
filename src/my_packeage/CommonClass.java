@@ -22,7 +22,7 @@ public class CommonClass {
 		}
         System.out.println("sum of array eliments:"+sum);
 System.out.println("My programe");        
-
+System.out.println("ajit");
 	}
 }
 
