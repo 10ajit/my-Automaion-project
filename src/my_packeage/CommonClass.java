@@ -20,8 +20,7 @@ public class CommonClass {
 		
         sum=sum+firstno;
 		}
-        System.out.println("sum of array eliments:"+sum);
-System.out.println("My programe");        
+        System.out.println("sum of array eliments:"+sum);       
 System.out.println("ajit");
 	}
 }
